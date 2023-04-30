@@ -54,3 +54,8 @@ body {
     margin-bottom: 20px;
   }
   
+  .small{
+    font-size: 80%;
+    font-weight: 400;
+    align-items: center;
+  }
